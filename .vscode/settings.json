@@ -1,0 +1,5 @@
+{
+  "prettier.jsxSingleQuote": false,
+  "prettier.trailingComma": "es5",
+  "prettier.singleQuote": true
+}
